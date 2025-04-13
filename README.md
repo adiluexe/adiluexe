@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently a Computer Science student<br>👯 I freelance in graphic design, as well as mobile and web development<br>🌱 I’m currently learning UI/UX design and full-stack development<br>⚡ I aspire to become a software developer and UI/UX designer specializing in mobile and web applications
 
 ## 🌐 Socials:
 
