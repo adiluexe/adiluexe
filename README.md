@@ -1,9 +1,9 @@
 # 💫 About Me
 
-🔭 Currently pursuing a degree in Computer Science.<br>
-👯 Actively freelancing, offering skills in graphic design, mobile development, and web development.<br>
-🌱 Continuously expanding my knowledge in UI/UX design and full-stack development.<br>
-⚡ Aspiring to build a career as a software developer and UI/UX designer with a focus on creating intuitive mobile and web applications.
+🎓 Currently pursuing a degree in Computer Science.<br>
+💼 Actively freelancing, offering skills in graphic design, mobile development, and web development.<br>
+💡 Continuously expanding my knowledge in UI/UX design and full-stack development.<br>
+🚀 Aspiring to build a career as a software developer and UI/UX designer with a focus on creating intuitive mobile and web applications.
 
 # 💻 Tech Stack
 
